@@ -4,11 +4,49 @@
 
 ### Geschichte der Synthesizer
 - Entstehung und Entwicklung der Synthesizer-Technologie.
-- Unterschied zwischen analogen und digitalen Synthesizern.
+  - Theremin
+  - Eastcost vs. Westcost
+  - Moog
+  - Burchular
 
 ### Grundlagen der Klangsynthese
 - Was ist ein Synthesizer?
 - Grundlegende Syntheseformen (Subtraktive, Additive, FM, Wavetable).
+
+
+### Ikonische Synthesizer
+
+1. **Moog Minimoog Model D**
+   - Der erste tragbare Synthesizer, bekannt für seinen warmen, analogen Klang und die benutzerfreundliche Oberfläche.
+
+2. **Yamaha DX7**
+   - Ein digitaler Synthesizer, der die FM-Synthese populär machte und in den 1980er Jahren weit verbreitet war.
+
+3. **Roland TR-808**
+   - Eigentlich ein Drumcomputer, aber berühmt für seine ikonischen Kick-Drums und Hi-Hats, die in vielen Musikgenres verwendet wurden.
+
+4. **Korg MS-20**
+   - Bekannt für seine flexible Signalverarbeitung und den einzigartigen, aggressiven Klang.
+
+5. **ARP 2600**
+   - Ein semi-modularer Synthesizer, bekannt für seine vielseitigen Klangmöglichkeiten und als Lerninstrument für Sounddesign.
+
+6. **Oberheim OB-Xa**
+   - Ein polyphoner Analog-Synthesizer, berühmt für seine warmen und fetten Klänge, die in vielen klassischen Rock- und Popaufnahmen verwendet wurden.
+
+7. **Sequential Circuits Prophet-5**
+   - Einer der ersten polyphonen Synthesizer mit programmierbaren Presets, bekannt für seinen reichen und vielseitigen Klang.
+
+8. **Roland Jupiter-8**
+   - Ein polyphoner Analog-Synthesizer, bekannt für seine präzisen Filter und den breiten Klang, beliebt in den 80er Jahren.
+
+9. **Elektron Monomachine**
+   - Ein moderner digitaler Synthesizer mit einem einzigartigen Sound und vielseitigen Sequencing-Möglichkeiten.
+
+10. **EMS VCS3**
+    - Ein früher modularer Synthesizer, der durch seine Patching-Matrix und seinen experimentellen Charakter bekannt wurde.
+  
+- Unterschied zwischen analogen und digitalen Synthesizern.
 
 ### Modulare Synthesizer vs. Standard-Synthesizer
 - Aufbau und Struktur eines modularen Synthesizers.
